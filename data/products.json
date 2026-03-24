@@ -1,0 +1,2484 @@
+[
+    {
+        "id": "001",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_iphone16promax",
+            "name": "Apple iPhone 16 Pro Max",
+            "brand": "Apple",
+            "price": 144900,
+            "discounted_price": 139900,
+            "discount_percent": 3,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 28,
+            "variant": {
+                "color": "Desert Titanium",
+                "storage": "256GB"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/51pVciVCMCL.AC_UF894,1000_QL80.jpg",
+                "https://i.ytimg.com/vi/inSnvpLfm_E/maxresdefault.jpg",
+                "https://helios-i.mashable.com/imagery/articles/00mzakk4qrwfS3BP2yZqfOY/hero-image.fill.size_1248x702.v1724069983.png"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T13:45:00Z",
+        "subtotal": 139900
+    },
+    {
+        "id": "002",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_sony_xm5",
+            "name": "Sony WH-1000XM5 Headphones",
+            "brand": "Sony",
+            "price": 34990,
+            "discounted_price": 28990,
+            "discount_percent": 17,
+            "currency": "INR",
+            "stock_status": "low_stock",
+            "stock_quantity": 4,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://www.bhphotovideo.com/images/fb/sony_6505727_sony_wh_1000xm5_wireless_noise_canceling_1706293.jpg",
+                "https://i.ytimg.com/vi/v6EjmbMgv80/maxresdefault.jpg",
+                "https://www.moon-audio.com/cdn/shop/files/sony-wh-1000xm5-main-02__79373.1669671666.1280.1280.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T14:10:00Z",
+        "subtotal": 28990
+    },
+    {
+        "id": "003",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_nike_airmax270",
+            "name": "Nike Air Max 270",
+            "brand": "Nike",
+            "price": 12999,
+            "discounted_price": 8999,
+            "discount_percent": 30,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 35,
+            "variant": {
+                "size": "US 10",
+                "color": "White/Black"
+            },
+            "images": [
+                "https://www.shoepalace.com/cdn/shop/products/024c10358f633e8a7e6d735228916c95_2048x2048.jpg",
+                "https://i.ebayimg.com/images/g/Q2sAAOSwDZ1ll3ao/s-l1200.jpg",
+                "https://m.media-amazon.com/images/I/71mNRq5AbfS.AC_UY900.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T14:20:00Z",
+        "subtotal": 17998
+    },
+    {
+        "id": "004",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_boat_airdopes141",
+            "name": "boAt Airdopes 141",
+            "brand": "boAt",
+            "price": 4499,
+            "discounted_price": 1299,
+            "discount_percent": 71,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 120,
+            "variant": {
+                "color": "Active Black"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://gearswheel.com/wp-content/uploads/2024/12/boAt-Airdopes-141-ANC-Wireless-Earbuds-1-1200x675.png"
+            ]
+        },
+        "quantity": 3,
+        "added_at": "2026-01-13T14:30:00Z",
+        "subtotal": 3897
+    },
+    {
+        "id": "005",
+        "addToCart": false,
+        "isActive": true,
+        "reason": "Out of stock",
+        "product": {
+            "id": "prod_s24ultra",
+            "name": "Samsung Galaxy S24 Ultra",
+            "brand": "Samsung",
+            "price": 129999,
+            "discounted_price": 119999,
+            "discount_percent": 8,
+            "currency": "INR",
+            "stock_status": "out_of_stock",
+            "stock_quantity": 0,
+            "variant": {
+                "color": "Titanium Gray",
+                "storage": "512GB"
+            },
+            "images": [
+                "https://images.samsung.com/is/image/samsung/assets/levant/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Grey_MO.jpg",
+                "https://i.ytimg.com/vi/xkS4Mg15Hc4/hq720.jpg",
+                "https://stg-images.samsung.com/is/image/samsung/assets/africa_en/smartphones/galaxy-s24-ultra/images/hotfix4/galaxy-s24-ultra-highlights-color-titanium-blue-back-mo.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T14:40:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "006",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_lenovo_ideapad",
+            "name": "Lenovo IdeaPad Slim 5",
+            "brand": "Lenovo",
+            "price": 64990,
+            "discounted_price": 57990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 18,
+            "variant": {
+                "ram": "16GB",
+                "ssd": "512GB"
+            },
+            "images": [
+                "https://example.com/lenovo-ideapad-slim5.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T14:50:00Z",
+        "subtotal": 57990
+    },
+    {
+        "id": "007",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_noise_colorfit",
+            "name": "Noise ColorFit Pro 5",
+            "brand": "Noise",
+            "price": 4999,
+            "discounted_price": 2499,
+            "discount_percent": 50,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 85,
+            "variant": {
+                "color": "Jet Black"
+            },
+            "images": [
+                "https://example.com/noise-colorfit-pro5-black.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T15:00:00Z",
+        "subtotal": 4998
+    },
+    {
+        "id": "008",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_puma_tshirt",
+            "name": "Puma Oversized T-Shirt",
+            "brand": "Puma",
+            "price": 2499,
+            "discounted_price": 1499,
+            "discount_percent": 40,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 200,
+            "variant": {
+                "size": "M",
+                "color": "Black"
+            },
+            "images": [
+                "https://example.com/puma-oversized-tshirt-black.jpg"
+            ]
+        },
+        "quantity": 4,
+        "added_at": "2026-01-13T15:10:00Z",
+        "subtotal": 5996
+    },
+    {
+        "id": "009",
+        "addToCart": false,
+        "isActive": true,
+        "reason": "Requested size not available",
+        "product": {
+            "id": "prod_adidas_ultraboost",
+            "name": "Adidas Ultraboost",
+            "brand": "Adidas",
+            "price": 17999,
+            "discounted_price": 12999,
+            "discount_percent": 28,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 5,
+            "variant": {
+                "size": "US 13",
+                "color": "Core Black"
+            },
+            "images": [
+                "https://example.com/adidas-ultraboost-black.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:15:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "010",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_jbl_flip6",
+            "name": "JBL Flip 6",
+            "brand": "JBL",
+            "price": 9999,
+            "discounted_price": 7999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 60,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://example.com/jbl-flip6-black.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:20:00Z",
+        "subtotal": 7999
+    },
+    {
+        "id": "011",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_oneplus_nordce4",
+            "name": "OnePlus Nord CE 4",
+            "brand": "OnePlus",
+            "price": 24999,
+            "discounted_price": 21999,
+            "discount_percent": 12,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 42,
+            "variant": {
+                "color": "Celtic Black",
+                "storage": "256GB"
+            },
+            "images": [
+                "https://example.com/oneplus-nord-ce4-black.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:25:00Z",
+        "subtotal": 21999
+    },
+    {
+        "id": "012",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_hm_shirt",
+            "name": "H&M Cotton Shirt",
+            "brand": "H&M",
+            "price": 1999,
+            "discounted_price": 999,
+            "discount_percent": 50,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 300,
+            "variant": {
+                "size": "L",
+                "color": "White"
+            },
+            "images": [
+                "https://example.com/hm-cotton-shirt-white.jpg"
+            ]
+        },
+        "quantity": 5,
+        "added_at": "2026-01-13T15:30:00Z",
+        "subtotal": 4995
+    },
+    {
+        "id": "013",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_canon_eos1500d",
+            "name": "Canon EOS 1500D",
+            "brand": "Canon",
+            "price": 42990,
+            "discounted_price": 38990,
+            "discount_percent": 9,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 15,
+            "variant": {
+                "lens": "18-55mm"
+            },
+            "images": [
+                "https://example.com/canon-eos-1500d.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:35:00Z",
+        "subtotal": 38990
+    },
+    {
+        "id": "014",
+        "addToCart": true,
+        "isActive": true,
+        "product": {
+            "id": "prod_mi_powerbank",
+            "name": "Mi Power Bank 20000mAh",
+            "brand": "Xiaomi",
+            "price": 1999,
+            "discounted_price": 1299,
+            "discount_percent": 35,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 250,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://example.com/mi-powerbank-black.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T15:40:00Z",
+        "subtotal": 2598
+    },
+    {
+        "id": "015",
+        "addToCart": false,
+        "isActive": true,
+        "reason": "Insufficient stock (only 2 left, requested 5)",
+        "product": {
+            "id": "prod_kitchenaid_mixer",
+            "name": "KitchenAid Stand Mixer",
+            "brand": "KitchenAid",
+            "price": 49990,
+            "discounted_price": 44990,
+            "discount_percent": 10,
+            "currency": "INR",
+            "stock_status": "low_stock",
+            "stock_quantity": 2,
+            "images": [
+                "https://example.com/kitchenaid-stand-mixer.jpg"
+            ]
+        },
+        "quantity": 5,
+        "added_at": "2026-01-13T15:45:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "016",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_woodland_shoes",
+            "name": "Woodland Trekking Shoes",
+            "brand": "Woodland",
+            "price": 4999,
+            "discounted_price": 3499,
+            "discount_percent": 30,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 80,
+            "variant": {
+                "size": "9 UK",
+                "color": "Camel"
+            },
+            "images": [
+                "https://example.com/woodland-trekking-shoes-camel.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:50:00Z",
+        "subtotal": 3499
+    },
+    {
+        "id": "017",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_philips_airfryer",
+            "name": "Philips Air Fryer HD9252",
+            "brand": "Philips",
+            "price": 10999,
+            "discounted_price": 7999,
+            "discount_percent": 27,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 45,
+            "images": [
+                "https://example.com/philips-airfryer-hd9252.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T15:55:00Z",
+        "subtotal": 7999
+    },
+    {
+        "id": "018",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_realme_budsair5",
+            "name": "Realme Buds Air 5",
+            "brand": "Realme",
+            "price": 5999,
+            "discounted_price": 3999,
+            "discount_percent": 33,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 95,
+            "variant": {
+                "color": "Starry Black"
+            },
+            "images": [
+                "https://example.com/realme-buds-air5-starry-black.jpg"
+            ]
+        },
+        "quantity": 3,
+        "added_at": "2026-01-13T16:00:00Z",
+        "subtotal": 11997
+    },
+    {
+        "id": "019",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_peterengland_shirt",
+            "name": "Peter England Formal Shirt",
+            "brand": "Peter England",
+            "price": 2999,
+            "discounted_price": 1799,
+            "discount_percent": 40,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 150,
+            "variant": {
+                "size": "42",
+                "color": "Blue"
+            },
+            "images": [
+                "https://example.com/peter-england-formal-shirt-blue.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T16:05:00Z",
+        "subtotal": 3598
+    },
+    {
+        "id": "020",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_dyson_v8",
+            "name": "Dyson V8 Cordless Vacuum",
+            "brand": "Dyson",
+            "price": 34990,
+            "discounted_price": 29990,
+            "discount_percent": 14,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 12,
+            "variant": {
+                "color": "Silver/Nickel"
+            },
+            "images": [
+                "https://example.com/dyson-v8-silver.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:10:00Z",
+        "subtotal": 29990
+    },
+    {
+        "id": "021",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_macbook_air_m3",
+            "name": "Apple MacBook Air M3 13-inch",
+            "brand": "Apple",
+            "price": 114900,
+            "discounted_price": 109900,
+            "discount_percent": 4,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 22,
+            "variant": {
+                "color": "Silver",
+                "storage": "512GB"
+            },
+            "images": [
+                "https://www.apple.com/newsroom/images/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/tile/Apple-MacBook-Air-2-up-hero-240304-lp.jpg.landing-big_2x.jpg",
+                "https://p.turbosquid.com/ts-thumb/Ks/dyMTE2/1h/ama13m324s_0001/jpg/1713080863/1920x1080/fit_q87/0eb41061b1a0c967162dc4ffc0039d786f06700a/ama13m324s_0001.jpg",
+                "https://helios-i.mashable.com/imagery/reviews/05mVngxL2rVUjcFRhJuAC9f/images-5.fill.size_2000x1125.v1709794195.webp"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:15:00Z",
+        "subtotal": 109900
+    },
+    {
+        "id": "022",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_apple_watch_series10",
+            "name": "Apple Watch Series 10",
+            "brand": "Apple",
+            "price": 46900,
+            "discounted_price": 44900,
+            "discount_percent": 4,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 50,
+            "variant": {
+                "color": "Jet Black",
+                "size": "42mm"
+            },
+            "images": [
+                "https://www.apple.com/newsroom/images/2024/09/introducing-apple-watch-series-10/article/Apple-Watch-Series-10-hero-240909_big.jpg.large.jpg",
+                "https://webobjects2.cdw.com/is/image/CDW/8073766?$product-main$",
+                "https://m.media-amazon.com/images/I/71nbeU6qKWL.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:20:00Z",
+        "subtotal": 44900
+    },
+    {
+        "id": "023",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_levis_501",
+            "name": "Levi's 501 Original Fit Jeans",
+            "brand": "Levi's",
+            "price": 4599,
+            "discounted_price": 3199,
+            "discount_percent": 30,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 180,
+            "variant": {
+                "size": "32x34",
+                "color": "Blue Denim"
+            },
+            "images": [
+                "https://i.ebayimg.com/images/g/wWYAAOSwyQ1lrox2/s-l1200.jpg",
+                "https://i.ebayimg.com/images/g/oyYAAOSwxJJdNnkC/s-l1200.jpg",
+                "https://m.media-amazon.com/images/I/917Rswxg5EL.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T16:25:00Z",
+        "subtotal": 6398
+    },
+    {
+        "id": "024",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_ps5_slim",
+            "name": "PlayStation 5 Slim Console",
+            "brand": "Sony",
+            "price": 54990,
+            "discounted_price": 49990,
+            "discount_percent": 9,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 30,
+            "variant": {
+                "edition": "Disc"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/51fM0CKG+HL.jpg",
+                "https://content.abt.com/image.php/sony-ps5-1000039671-packaging-2.png?image=/images/products/BDP_Images/sony-ps5-1000039671-packaging-2.png&canvas=1&width=750&height=550",
+                "https://m.media-amazon.com/images/I/51a0eRaE8BL.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:30:00Z",
+        "subtotal": 49990
+    },
+    {
+        "id": "025",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bose_qc_ultra",
+            "name": "Bose QuietComfort Ultra Earbuds",
+            "brand": "Bose",
+            "price": 29990,
+            "discounted_price": 25990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 25,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/31WiaqXVpSL.jpg",
+                "https://assets.bosecreative.com/transform/6fefe971-f1d8-4ab1-86b3-849a03a22dc2/SF_PDP_GALLERY_BLACK-1",
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6717d39a-ff5e-41b7-b4e2-fcbe932932f8.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:35:00Z",
+        "subtotal": 25990
+    },
+    {
+        "id": "026",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_godrej_fridge",
+            "name": "Godrej 253L Double Door Refrigerator",
+            "brand": "Godrej",
+            "price": 28990,
+            "discounted_price": 24990,
+            "discount_percent": 14,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 40,
+            "images": [
+                "https://static.godrejenterprises.com/Refcard1_Aipowered_6527db30c3.jpg",
+                "https://www.pittappillilonline.com/uploads/products/godrej-253l-2-star-frost-free-double-door-refrigerator-rt-eonalpha-270b-ri-st-gl-gallery264ce607ac4f5e.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:40:00Z",
+        "subtotal": 24990
+    },
+    {
+        "id": "027",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_jordan1_chicago",
+            "name": "Nike Air Jordan 1 Retro High OG Chicago",
+            "brand": "Nike",
+            "price": 18999,
+            "discounted_price": 15999,
+            "discount_percent": 16,
+            "currency": "INR",
+            "stock_status": "low_stock",
+            "stock_quantity": 8,
+            "variant": {
+                "size": "US 9"
+            },
+            "images": [
+                "https://cdn.flightclub.com/TEMPLATE/012235/1.jpg",
+                "https://m.media-amazon.com/images/I/71KTj0jb-aL.AC_UY900.jpg",
+                "https://i.ebayimg.com/images/g/tCwAAOSwVrdl1AjK/s-l1200.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:45:00Z",
+        "subtotal": 15999
+    },
+    {
+        "id": "028",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_samsung_qled55",
+            "name": "Samsung 55-inch QLED 4K Smart TV",
+            "brand": "Samsung",
+            "price": 84990,
+            "discounted_price": 74990,
+            "discount_percent": 12,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 15,
+            "images": [
+                "https://m.media-amazon.com/images/I/81IKMhVnilL.jpg",
+                "https://thebigscreenstore.com/cdn/shop/files/QN90Ffront_900x558.webp?v=1743707602"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:50:00Z",
+        "subtotal": 74990
+    },
+    {
+        "id": "029",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_rayban_wayfarer",
+            "name": "Ray-Ban Wayfarer Classic Sunglasses",
+            "brand": "Ray-Ban",
+            "price": 7999,
+            "discounted_price": 5999,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 120,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://images2.ray-ban.com//cdn-record-files-pi/cffd73dc-8021-4268-80e3-a35800041c9c/38beb367-52eb-4550-8acc-acfd008aeae6/0RB2140__901_58__STD__shad__qt.png?impolicy=RB_Product_clone&width=700&bgc=%23f2f2f2",
+                "https://www.goodseeco.com/cdn/shop/products/good-see-co-48673_800x.jpg?v=1627075547"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T16:55:00Z",
+        "subtotal": 5999
+    },
+    {
+        "id": "030",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_dyson_supersonic",
+            "name": "Dyson Supersonic Hair Dryer",
+            "brand": "Dyson",
+            "price": 42990,
+            "discounted_price": 38990,
+            "discount_percent": 9,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 10,
+            "variant": {
+                "color": "Nickel/Copper"
+            },
+            "images": [
+                "https://insigniawellness.com/app/uploads/2024/09/Variant-page-Spec-image-assets.png",
+                "https://i.ytimg.com/vi/fBZdAqP4d8c/sddefault.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:00:00Z",
+        "subtotal": 38990
+    },
+    {
+        "id": "031",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_lg_ac_1.5ton",
+            "name": "LG 1.5 Ton 5 Star Split AC",
+            "brand": "LG",
+            "price": 54990,
+            "discounted_price": 47990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 20,
+            "images": [
+                "http://darlingretail.com/cdn/shop/files/1.6.jpg?v=1755761435",
+                "https://www.lg.com/ae/images/non-tropical-split-air-conditioners/md07604542/gallery/D_8.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:05:00Z",
+        "subtotal": 47990
+    },
+    {
+        "id": "032",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_airpods_pro2",
+            "name": "Apple AirPods Pro 2",
+            "brand": "Apple",
+            "price": 24990,
+            "discounted_price": 21990,
+            "discount_percent": 12,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 55,
+            "images": [
+                "https://i.ebayimg.com/images/g/4s8AAOSw~fBl1jpa/s-l400.png",
+                "https://www.macworld.com/wp-content/uploads/2023/11/airpods-pro-usb-c-case.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:10:00Z",
+        "subtotal": 21990
+    },
+    {
+        "id": "033",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_northface_puffer",
+            "name": "The North Face Puffer Jacket",
+            "brand": "The North Face",
+            "price": 15999,
+            "discounted_price": 12999,
+            "discount_percent": 19,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 45,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://i.ebayimg.com/images/g/MBEAAOSwgldmazn2/s-l1200.jpg",
+                "https://media-assets.grailed.com/prd/listing/39544754/5d0950a4f3ee4c58ac98522fbbee88c5"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:15:00Z",
+        "subtotal": 12999
+    },
+    {
+        "id": "034",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_philips_trimmer",
+            "name": "Philips Multigroom 3000 Trimmer",
+            "brand": "Philips",
+            "price": 2499,
+            "discounted_price": 1999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 90,
+            "images": [
+                "https://images.philips.com/is/image/philipsconsumer/53516a9761194fe9b24bae7800d4480f?wid=700&hei=375&$pnglarge$",
+                "https://shavingadvisor.com/wp-content/uploads/2023/04/Philips-Norelco-Series-3000-beard-trimmer-held-in-the-hand-on-white-background.webp"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:20:00Z",
+        "subtotal": 1999
+    },
+    {
+        "id": "035",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_echo_dot5",
+            "name": "Amazon Echo Dot 5th Gen",
+            "brand": "Amazon",
+            "price": 4999,
+            "discounted_price": 3499,
+            "discount_percent": 30,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 200,
+            "images": [
+                "https://media.officedepot.com/images/f_auto,q_auto,e_sharpen,h_450/products/6672044/6672044_o55_cn_9874748/6672044",
+                "https://m.media-amazon.com/images/I/51SHNqAFCVL.AC_UF1000,1000_QL80.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T17:25:00Z",
+        "subtotal": 6998
+    },
+    {
+        "id": "036",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_puma_rsx",
+            "name": "Puma RS-X Sneakers",
+            "brand": "Puma",
+            "price": 8999,
+            "discounted_price": 6999,
+            "discount_percent": 22,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 60,
+            "variant": {
+                "color": "Multi"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/51W1RGegLFL.AC_UY900.jpg",
+                "http://nohble.com/cdn/shop/products/284607_5cf00a0a86ffb9.80601136_Landscape_ProductFrame_large_e64ac89b-dffc-4385-82ee-154f3a22a775_1200x1200.jpg?v=1642801203"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:30:00Z",
+        "subtotal": 6999
+    },
+    {
+        "id": "037",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_xiaomi_band9",
+            "name": "Xiaomi Smart Band 9",
+            "brand": "Xiaomi",
+            "price": 3999,
+            "discounted_price": 2999,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 150,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/51SKwj613SL.jpg",
+                "https://i02.appmifile.com/mi-com-product/fly-birds/xiaomi-smart-band-9-active/c8410ba58e794a35f55e2268d8b97c33.png"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:35:00Z",
+        "subtotal": 2999
+    },
+    {
+        "id": "038",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bajaj_mixer",
+            "name": "Bajaj 750W Mixer Grinder",
+            "brand": "Bajaj",
+            "price": 5999,
+            "discounted_price": 4499,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 70,
+            "images": [
+                "https://cdn.othoba.com/images/thumbs/1013945_bajaj-military-series-finesse-750w-mixer-grinder-3-stainless-steel-military-grade-jars-duracut-blade_400.jpeg",
+                "https://vadiraja.com/wp-content/uploads/2020/10/98.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:40:00Z",
+        "subtotal": 4499
+    },
+    {
+        "id": "039",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_fastrack_watch",
+            "name": "Fastrack Analog Watch",
+            "brand": "Fastrack",
+            "price": 2999,
+            "discounted_price": 1999,
+            "discount_percent": 33,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 100,
+            "variant": {
+                "color": "Black Dial"
+            },
+            "images": [
+                "https://www.fastrack.in/on/demandware.static/-/Sites-titan-master-catalog/default/dw317be2cb/images/promotions/fastrack/Cerame/Cerame_1.jpg",
+                "https://rukminim2.flixcart.com/image/480/640/watch/e/d/q/3099sm05-fastrack-original-imads9rqtmvpf9zs.jpeg?q=90"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:45:00Z",
+        "subtotal": 1999
+    },
+    {
+        "id": "040",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_samsung_watch7",
+            "name": "Samsung Galaxy Watch 7",
+            "brand": "Samsung",
+            "price": 32990,
+            "discounted_price": 28990,
+            "discount_percent": 12,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 35,
+            "variant": {
+                "color": "Silver"
+            },
+            "images": [
+                "https://image-us.samsung.com/us/galaxy-watch-ultra/ET-SNL30S_001_Front_Silver-Gallery-1600x1200.jpg?$product-details-jpg$",
+                "https://i.ebayimg.com/images/g/RacAAeSwFb5o3IjK/s-l400.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:50:00Z",
+        "subtotal": 28990
+    },
+    {
+        "id": "041",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_boat_rockerz550",
+            "name": "boAt Rockerz 550 Headphones",
+            "brand": "boAt",
+            "price": 1999,
+            "discounted_price": 1299,
+            "discount_percent": 35,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 140,
+            "images": [
+                "https://m.media-amazon.com/images/I/61gYxcIGjvL.AC_UF1000,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/51p6nhRWyGL.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T17:55:00Z",
+        "subtotal": 1299
+    },
+    {
+        "id": "042",
+        "addToCart": false,
+        "isActive": false,
+        "reason": "Out of stock",
+        "product": {
+            "id": "prod_galaxy_s25ultra",
+            "name": "Samsung Galaxy S25 Ultra (Upcoming)",
+            "brand": "Samsung",
+            "price": 149990,
+            "discounted_price": 144990,
+            "discount_percent": 3,
+            "currency": "INR",
+            "stock_status": "out_of_stock",
+            "stock_quantity": 0,
+            "variant": {
+                "color": "Titanium Black"
+            },
+            "images": [
+                "https://example.com/samsung-s25-ultra-black.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:00:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "043",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_hp_pavilion",
+            "name": "HP Pavilion x360 Laptop",
+            "brand": "HP",
+            "price": 72990,
+            "discounted_price": 64990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 12,
+            "variant": {
+                "ram": "16GB",
+                "storage": "1TB"
+            },
+            "images": [
+                "https://example.com/hp-pavilion-x360.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:05:00Z",
+        "subtotal": 64990
+    },
+    {
+        "id": "044",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_vivo_t3",
+            "name": "Vivo T3 5G",
+            "brand": "Vivo",
+            "price": 19999,
+            "discounted_price": 17999,
+            "discount_percent": 10,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 65,
+            "variant": {
+                "color": "Cosmic Blue"
+            },
+            "images": [
+                "https://example.com/vivo-t3-cosmic-blue.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:10:00Z",
+        "subtotal": 17999
+    },
+    {
+        "id": "045",
+        "addToCart": false,
+        "isActive": false,
+        "reason": "Variant discontinued",
+        "product": {
+            "id": "prod_old_model_tv",
+            "name": "Old Samsung 43-inch LED TV (Discontinued)",
+            "brand": "Samsung",
+            "price": 24990,
+            "discounted_price": 19990,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "discontinued",
+            "stock_quantity": 0,
+            "images": [
+                "https://example.com/old-samsung-tv.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:15:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "046",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_macbook_pro_m4",
+            "name": "Apple MacBook Pro 16-inch M4 Pro",
+            "brand": "Apple",
+            "price": 249900,
+            "discounted_price": 239900,
+            "discount_percent": 4,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 15,
+            "variant": {
+                "color": "Space Black",
+                "storage": "1TB"
+            },
+            "images": [
+                "https://content.abt.com/image.php/apple-laptop-MX2T3LLA-front.jpg?image=/images/products/BDP_Images/apple-laptop-MX2T3LLA-front.jpg&canvas=1&width=750&height=550",
+                "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/1b3d38cd-4612-48c1-9722-d1edbb1fa1e9.jpg",
+                "https://webobjects2.cdw.com/is/image/CDW/8132858?$product-main$"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:20:00Z",
+        "subtotal": 239900
+    },
+    {
+        "id": "047",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_pixel9proxl",
+            "name": "Google Pixel 9 Pro XL",
+            "brand": "Google",
+            "price": 124999,
+            "discounted_price": 119999,
+            "discount_percent": 4,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 32,
+            "variant": {
+                "color": "Obsidian",
+                "storage": "512GB"
+            },
+            "images": [
+                "https://i.ytimg.com/vi/9QyHpe4zR6g/maxresdefault.jpg",
+                "https://lh3.googleusercontent.com/E3SXpQuTnr2_r_nufGVPzXUGMJ9RLZy2TSRQi5h8yh8rGN_-1fjw3XLLaKlO6K3-WzrUvBFBx7PLR1P4-cC3nFP_AzWxCu582-8NTVk=rw-e365-nu-w1050-v1",
+                "https://www.droid-life.com/wp-content/uploads/2024/08/Pixel-9-Pro-XL-4-980x653.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:25:00Z",
+        "subtotal": 119999
+    },
+    {
+        "id": "048",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_ps5_dualsense",
+            "name": "PlayStation 5 DualSense Controller",
+            "brand": "Sony",
+            "price": 7490,
+            "discounted_price": 6490,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 100,
+            "variant": {
+                "color": "White"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/51PmeLGEkML.AC_UF1000,1000_QL80.jpg",
+                "https://webobjects2.cdw.com/is/image/CDW/7936050?$product-main$",
+                "https://content.abt.com/image.php/Sony-Playstation-5-DualSense-White-Wireless-Controller-3005715.jpg?image=/images/products/BDP_Images/Sony-Playstation-5-DualSense-White-Wireless-Controller-3005715.jpg&canvas=1&width=750&height=550"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T18:30:00Z",
+        "subtotal": 12980
+    },
+    {
+        "id": "049",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_dell_xps14",
+            "name": "Dell XPS 14 Laptop",
+            "brand": "Dell",
+            "price": 149900,
+            "discounted_price": 139900,
+            "discount_percent": 7,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 18,
+            "variant": {
+                "color": "Platinum Silver"
+            },
+            "images": [
+                "https://www.bhphotovideo.com/images/fb/dell_g7vy6_14_5_xps_14_9440_1877889.jpg",
+                "https://www.zdnet.com/a/img/resize/6477ec8d01ab4387ebae721f43127f1fd566c8a5/2024/04/05/6dd6bc35-54d0-477a-ac60-0a070353e433/dell-xps-14-2.jpg?auto=webp&fit=crop&height=900&width=1200",
+                "https://s.yimg.com/ny/api/res/1.2/putZOcP6zsdLtAGWdkEGYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://media.zenfs.com/en/techradar_949/6af11bf46100378e40e097980c78192a"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:35:00Z",
+        "subtotal": 139900
+    },
+    {
+        "id": "050",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_asus_rog_g16",
+            "name": "ASUS ROG Strix G16 Gaming Laptop",
+            "brand": "ASUS",
+            "price": 189990,
+            "discounted_price": 169990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 10,
+            "variant": {
+                "gpu": "RTX 4070"
+            },
+            "images": [
+                "https://content.abt.com/image.php/asus-gaming-laptop-G615JHR-DS74-top-open.jpg?image=/images/products/BDP_Images/asus-gaming-laptop-G615JHR-DS74-top-open.jpg&canvas=1&width=750&height=550",
+                "https://i.ytimg.com/vi/cfwKjcZsyWU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXjQHN0_NMGYmeIkI4Kx6tDi6LbQ",
+                "https://i.ytimg.com/vi/xVbyNHjvhfk/maxresdefault.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:40:00Z",
+        "subtotal": 169990
+    },
+    {
+        "id": "051",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_noise_ultra3",
+            "name": "Noise ColorFit Ultra 3 Smartwatch",
+            "brand": "Noise",
+            "price": 5999,
+            "discounted_price": 3999,
+            "discount_percent": 33,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 110,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://static.beebom.com/wp-content/uploads/2023/05/Noise-ColorFit-Ultra-3-launched.jpg?w=750&quality=75",
+                "https://i.ytimg.com/vi/HoZeRnjJ1uE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJFSNUM1ZuplkDBAm-xTgpF7-ypA",
+                "https://m.media-amazon.com/images/I/41NkMkngDyL.AC_UY1100.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T18:45:00Z",
+        "subtotal": 7998
+    },
+    {
+        "id": "052",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_kitchenaid_artisan",
+            "name": "KitchenAid Artisan 5 Quart Stand Mixer",
+            "brand": "KitchenAid",
+            "price": 49990,
+            "discounted_price": 44990,
+            "discount_percent": 10,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 8,
+            "variant": {
+                "color": "Empire Red"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/61pxecPA0WL.jpg",
+                "https://www.kitchenaid.com/is/image/content/dam/global/kitchenaid/countertop-appliance/portable/images/hero-KSM192XDER.tif?hei=600",
+                "https://content.abt.com/image.php/big_KSM150PSER.jpg?image=/images/products/BDP_Images/big_KSM150PSER.jpg&canvas=1&width=750&height=550"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:50:00Z",
+        "subtotal": 44990
+    },
+    {
+        "id": "053",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_samsung_s95d_77",
+            "name": "Samsung 77-inch OLED 4K TV (S95D)",
+            "brand": "Samsung",
+            "price": 349990,
+            "discounted_price": 299990,
+            "discount_percent": 14,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 5,
+            "images": [
+                "https://i.ytimg.com/vi/8vH4Fnn-lE8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAy3Npm7YXltXtwkAI22jP5T0wTQ",
+                "https://i.ytimg.com/vi/UPmYdsea5rM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD92prdjXgrhvNxWxxBLQKBjnHCaQ",
+                "https://i.ytimg.com/vi/lJWPjFerALs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD0FXJD7xfzvjSCsXf8yj3XUn1ZnQ"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T18:55:00Z",
+        "subtotal": 299990
+    },
+    {
+        "id": "054",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_boat_nirvana_ion",
+            "name": "boAt Nirvana Ion ANC Earbuds",
+            "brand": "boAt",
+            "price": 7999,
+            "discounted_price": 4999,
+            "discount_percent": 38,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 90,
+            "variant": {
+                "color": "Blue"
+            },
+            "images": [
+                "https://i.ytimg.com/vi/a31ItyKfMqM/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/Nc-lbGkLmtU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAhUdj-uzJEl7iX5qtHP3D0OCBD7g",
+                "https://prod4-sprcdn-assets.sprinklr.com/200052/15ca2b8f-ba2e-4d91-bfe8-5f8aa077e724-724638985/preview_image_0-6d2651b8-cf97-.png"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:00:00Z",
+        "subtotal": 4999
+    },
+    {
+        "id": "055",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_canon_r10",
+            "name": "Canon EOS R10 Mirrorless Camera",
+            "brand": "Canon",
+            "price": 94990,
+            "discounted_price": 89990,
+            "discount_percent": 5,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 12,
+            "variant": {
+                "lens": "18-45mm"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/81lgS3LReWL.AC_UF894,1000_QL80.jpg",
+                "https://content.abt.com/image.php/Canon-EOS-R10-Mirrorless-Camera-Body-EOSR10-BODY-Front.jpg?image=/images/products/BDP_Images/Canon-EOS-R10-Mirrorless-Camera-Body-EOSR10-BODY-Front.jpg&canvas=1&width=750&height=550",
+                "https://service.pcconnection.com/images/inhouse/2BAC08BB-BBA3-4FB6-B9A3-217DA9DD8065.jpg?interpolation=lanczos-none&downsize=800%3A*"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:05:00Z",
+        "subtotal": 89990
+    },
+    {
+        "id": "056",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_nike_dunk_low_panda",
+            "name": "Nike Dunk Low Panda",
+            "brand": "Nike",
+            "price": 11999,
+            "discounted_price": 9999,
+            "discount_percent": 17,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 50,
+            "variant": {
+                "size": "US 9"
+            },
+            "images": [
+                "https://i.ebayimg.com/images/g/z~QAAOSw91ZnJD1D/s-l1200.jpg",
+                "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-2021-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&fm=webp&auto=compress&q=90&dpr=2&trim=color&updated_at=1738193358",
+                "https://i.ebayimg.com/images/g/CIMAAOSwSrVl9xT~/s-l1200.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:10:00Z",
+        "subtotal": 9999
+    },
+    {
+        "id": "057",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_adidas_samba",
+            "name": "Adidas Samba OG Shoes",
+            "brand": "Adidas",
+            "price": 10999,
+            "discounted_price": 8999,
+            "discount_percent": 18,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 70,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://assets.adidas.com/videos/0006fb6629744d04bc8d539d6e93210b_d98c/IG9031_HM1.jpg",
+                "https://assets.adidas.com/images/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/w_600,f_auto,q_auto/ee0d24e504c64b998a17b6cafb9b3512_9366/Samba_XLG_Shoes_Black_IE1379_01_standard.jpg",
+                "https://assets.adidas.com/images/c_fill,g_auto,w_1200,h_630,f_auto,q_auto/w_600,f_auto,q_auto/bbe4ca02b53e4aea9016a4f4538eb4a2_9366/SAMBA_OG_SHOES_Black_IH9052_01_00_standard.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:15:00Z",
+        "subtotal": 8999
+    },
+    {
+        "id": "058",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_jbl_partybox310",
+            "name": "JBL PartyBox 310 Portable Speaker",
+            "brand": "JBL",
+            "price": 44990,
+            "discounted_price": 39990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 20,
+            "images": [
+                "http://www.safeandsoundhq.com/cdn/shop/files/g109PBOX310-F.jpg?v=1754080590",
+                "https://www.acousticsounddesign.com/image/cache/1400x1000/catalog/products/5-16-22/e414e02f-4a7f-51fe-a0d5-5d352daeebf8-1400x1000.jpg",
+                "https://www.acousticsounddesign.com/image/cache/1400x1000/catalog/products/5-16-22/4545b1a3-5cc3-536a-86f3-f023ac111fbf-1400x1000.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:20:00Z",
+        "subtotal": 39990
+    },
+    {
+        "id": "059",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_hp_omen_16",
+            "name": "HP Omen 16 Gaming Laptop",
+            "brand": "HP",
+            "price": 129990,
+            "discounted_price": 119990,
+            "discount_percent": 8,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 14,
+            "variant": {
+                "gpu": "RTX 4060"
+            },
+            "images": [
+                "https://example.com/hp-omen-16-gaming.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:25:00Z",
+        "subtotal": 119990
+    },
+    {
+        "id": "060",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_fitbit_charge6",
+            "name": "Fitbit Charge 6 Fitness Tracker",
+            "brand": "Fitbit",
+            "price": 14990,
+            "discounted_price": 12990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 60,
+            "variant": {
+                "color": "Obsidian"
+            },
+            "images": [
+                "https://example.com/fitbit-charge6-obsidian.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:30:00Z",
+        "subtotal": 12990
+    },
+    {
+        "id": "061",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_voltas_ac",
+            "name": "Voltas 1.5 Ton 5 Star Inverter AC",
+            "brand": "Voltas",
+            "price": 45990,
+            "discounted_price": 39990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 25,
+            "images": [
+                "https://example.com/voltas-1.5-ton-ac.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:35:00Z",
+        "subtotal": 39990
+    },
+    {
+        "id": "062",
+        "addToCart": false,
+        "isActive": false,
+        "reason": "Limited stock exceeded",
+        "product": {
+            "id": "prod_ikea_chair",
+            "name": "IKEA Poäng Armchair",
+            "brand": "IKEA",
+            "price": 7990,
+            "discounted_price": 6990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "low_stock",
+            "stock_quantity": 3,
+            "images": [
+                "https://example.com/ikea-poang-chair.jpg"
+            ]
+        },
+        "quantity": 5,
+        "added_at": "2026-01-13T19:40:00Z",
+        "subtotal": 0
+    },
+    {
+        "id": "063",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_microsoft_surface_laptop",
+            "name": "Microsoft Surface Laptop 7",
+            "brand": "Microsoft",
+            "price": 114990,
+            "discounted_price": 104990,
+            "discount_percent": 9,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 20,
+            "variant": {
+                "color": "Platinum"
+            },
+            "images": [
+                "https://example.com/surface-laptop7-platinum.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:45:00Z",
+        "subtotal": 104990
+    },
+    {
+        "id": "064",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bosch_washing_machine",
+            "name": "Bosch 8kg Front Load Washing Machine",
+            "brand": "Bosch",
+            "price": 44990,
+            "discounted_price": 39990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 18,
+            "images": [
+                "https://example.com/bosch-8kg-washing-machine.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:50:00Z",
+        "subtotal": 39990
+    },
+    {
+        "id": "065",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_garmin_forerunner",
+            "name": "Garmin Forerunner 265 Smartwatch",
+            "brand": "Garmin",
+            "price": 44990,
+            "discounted_price": 39990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 25,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://example.com/garmin-forerunner-265-black.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T19:55:00Z",
+        "subtotal": 39990
+    },
+    {
+        "id": "066",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_anker_powerbank",
+            "name": "Anker PowerCore 26800mAh Power Bank",
+            "brand": "Anker",
+            "price": 5999,
+            "discounted_price": 4499,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 80,
+            "variant": {
+                "color": "Black"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/71Xj6j1pVUL.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/61d0h4k7vML.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T20:00:00Z",
+        "subtotal": 8998
+    },
+    {
+        "id": "067",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_logitech_mx_master3s",
+            "name": "Logitech MX Master 3S Mouse",
+            "brand": "Logitech",
+            "price": 9990,
+            "discounted_price": 8490,
+            "discount_percent": 15,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 45,
+            "variant": {
+                "color": "Graphite"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/61vP0j9nT4L.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71yZ2e0oFZL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:05:00Z",
+        "subtotal": 8490
+    },
+    {
+        "id": "068",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_acer_predator_monitor",
+            "name": "Acer Predator 27-inch 1440p Gaming Monitor",
+            "brand": "Acer",
+            "price": 34990,
+            "discounted_price": 29990,
+            "discount_percent": 14,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 22,
+            "images": [
+                "https://m.media-amazon.com/images/I/81m2g1n9nZL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71x0+1o4gKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:10:00Z",
+        "subtotal": 29990
+    },
+    {
+        "id": "069",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_philips_oneblade",
+            "name": "Philips OneBlade Face + Body",
+            "brand": "Philips",
+            "price": 3499,
+            "discounted_price": 2499,
+            "discount_percent": 29,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 130,
+            "images": [
+                "https://m.media-amazon.com/images/I/61gYxcIGjvL.AC_UF1000,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71Q5xYd6ZKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:15:00Z",
+        "subtotal": 2499
+    },
+    {
+        "id": "070",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_microsoft_xbox_series_x",
+            "name": "Xbox Series X Console",
+            "brand": "Microsoft",
+            "price": 49990,
+            "discounted_price": 44990,
+            "discount_percent": 10,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 25,
+            "images": [
+                "https://m.media-amazon.com/images/I/51v2s7XgRVL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/61Qv7m3i9QL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:20:00Z",
+        "subtotal": 44990
+    },
+    {
+        "id": "071",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_braun_series9",
+            "name": "Braun Series 9 Electric Shaver",
+            "brand": "Braun",
+            "price": 29990,
+            "discounted_price": 24990,
+            "discount_percent": 17,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 18,
+            "images": [
+                "https://m.media-amazon.com/images/I/71oV5s6iKOL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/61w9Z9pKXEL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:25:00Z",
+        "subtotal": 24990
+    },
+    {
+        "id": "072",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_sony_alpha7iv",
+            "name": "Sony Alpha 7 IV Mirrorless Camera",
+            "brand": "Sony",
+            "price": 249990,
+            "discounted_price": 229990,
+            "discount_percent": 8,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 9,
+            "images": [
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71+0z3zqYJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:30:00Z",
+        "subtotal": 229990
+    },
+    {
+        "id": "073",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_nespresso_vertuo",
+            "name": "Nespresso Vertuo Next Coffee Machine",
+            "brand": "Nespresso",
+            "price": 14990,
+            "discounted_price": 11990,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 40,
+            "images": [
+                "https://m.media-amazon.com/images/I/61iJ7tE8qVL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71o5p1eG2QL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:35:00Z",
+        "subtotal": 11990
+    },
+    {
+        "id": "074",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_samsung_bespoke_fridge",
+            "name": "Samsung Bespoke 4-Door Refrigerator",
+            "brand": "Samsung",
+            "price": 199990,
+            "discounted_price": 179990,
+            "discount_percent": 10,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 7,
+            "images": [
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81j6vZ0Z5YL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:40:00Z",
+        "subtotal": 179990
+    },
+    {
+        "id": "075",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_gopro_hero13",
+            "name": "GoPro HERO13 Black Action Camera",
+            "brand": "GoPro",
+            "price": 39990,
+            "discounted_price": 34990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 30,
+            "images": [
+                "https://m.media-amazon.com/images/I/71gK8V0Z3ZL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81t2A6uhmZL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:45:00Z",
+        "subtotal": 34990
+    },
+    {
+        "id": "076",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_whirlpool_microwave",
+            "name": "Whirlpool 25L Microwave Oven",
+            "brand": "Whirlpool",
+            "price": 12990,
+            "discounted_price": 10990,
+            "discount_percent": 15,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 55,
+            "images": [
+                "https://m.media-amazon.com/images/I/61k0m5Z3ZXL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71Z0m5Z3ZXL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:50:00Z",
+        "subtotal": 10990
+    },
+    {
+        "id": "077",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_skechers_go_walk",
+            "name": "Skechers Go Walk 6 Shoes",
+            "brand": "Skechers",
+            "price": 7999,
+            "discounted_price": 5999,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 90,
+            "variant": {
+                "size": "US 8",
+                "color": "Black"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/81AN7ihxd9L.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71mNRq5AbfS.AC_UY900.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T20:55:00Z",
+        "subtotal": 5999
+    },
+    {
+        "id": "078",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_ifb_washing_machine",
+            "name": "IFB 8kg Front Load Washing Machine",
+            "brand": "IFB",
+            "price": 39990,
+            "discounted_price": 34990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 28,
+            "images": [
+                "https://m.media-amazon.com/images/I/81IKMhVnilL.jpg",
+                "https://m.media-amazon.com/images/I/71x0+1o4gKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:00:00Z",
+        "subtotal": 34990
+    },
+    {
+        "id": "079",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_oppo_reno12",
+            "name": "OPPO Reno12 5G",
+            "brand": "OPPO",
+            "price": 34999,
+            "discounted_price": 31999,
+            "discount_percent": 9,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 50,
+            "variant": {
+                "color": "Silk Blue"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/51VLaWjaShL.CR3,0,1914,1080_SR684,386.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:05:00Z",
+        "subtotal": 31999
+    },
+    {
+        "id": "080",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_butterfly_mixer",
+            "name": "Butterfly Jet Elite Mixer Grinder",
+            "brand": "Butterfly",
+            "price": 4999,
+            "discounted_price": 3999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 75,
+            "images": [
+                "https://m.media-amazon.com/images/I/61pxecPA0WL.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:10:00Z",
+        "subtotal": 3999
+    },
+    {
+        "id": "081",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_godrej_ac_1ton",
+            "name": "Godrej 1 Ton 5 Star Inverter AC",
+            "brand": "Godrej",
+            "price": 34990,
+            "discounted_price": 29990,
+            "discount_percent": 14,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 35,
+            "images": [
+                "https://m.media-amazon.com/images/I/81lgS3LReWL.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:15:00Z",
+        "subtotal": 29990
+    },
+    {
+        "id": "082",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_havells_fan",
+            "name": "Havells Nicola 1200mm Ceiling Fan",
+            "brand": "Havells",
+            "price": 3999,
+            "discounted_price": 2999,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 200,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/81m2g1n9nZL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T21:20:00Z",
+        "subtotal": 5998
+    },
+    {
+        "id": "083",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_titan_watch",
+            "name": "Titan Neo Analog Watch",
+            "brand": "Titan",
+            "price": 4999,
+            "discounted_price": 3499,
+            "discount_percent": 30,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 85,
+            "images": [
+                "https://m.media-amazon.com/images/I/71Q5xYd6ZKL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81AN7ihxd9L.AC_UF894,1000_QL80.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:25:00Z",
+        "subtotal": 3499
+    },
+    {
+        "id": "084",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bajaj_fan",
+            "name": "Bajaj Frore 1200mm Ceiling Fan",
+            "brand": "Bajaj",
+            "price": 2499,
+            "discounted_price": 1999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 150,
+            "images": [
+                "https://m.media-amazon.com/images/I/61iJ7tE8qVL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71o5p1eG2QL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 3,
+        "added_at": "2026-01-13T21:30:00Z",
+        "subtotal": 5997
+    },
+    {
+        "id": "085",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_lg_monitor_27",
+            "name": "LG 27-inch UltraGear Gaming Monitor",
+            "brand": "LG",
+            "price": 24990,
+            "discounted_price": 21990,
+            "discount_percent": 12,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 40,
+            "images": [
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71x0+1o4gKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:35:00Z",
+        "subtotal": 21990
+    },
+    {
+        "id": "086",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_realme_gt6",
+            "name": "Realme GT 6 5G",
+            "brand": "Realme",
+            "price": 39999,
+            "discounted_price": 34999,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 55,
+            "variant": {
+                "color": "Razor Green"
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/81lgS3LReWL.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:40:00Z",
+        "subtotal": 34999
+    },
+    {
+        "id": "087",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_prestige_pressure_cooker",
+            "name": "Prestige Svachh 5L Pressure Cooker",
+            "brand": "Prestige",
+            "price": 3499,
+            "discounted_price": 2799,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 120,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/51VLaWjaShL.CR3,0,1914,1080_SR684,386.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:45:00Z",
+        "subtotal": 2799
+    },
+    {
+        "id": "088",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_morphy_richards_toaster",
+            "name": "Morphy Richards 4 Slice Toaster",
+            "brand": "Morphy Richards",
+            "price": 2999,
+            "discounted_price": 2199,
+            "discount_percent": 27,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 65,
+            "images": [
+                "https://m.media-amazon.com/images/I/61pxecPA0WL.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:50:00Z",
+        "subtotal": 2199
+    },
+    {
+        "id": "089",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_haier_tv_55",
+            "name": "Haier 55-inch 4K Smart TV",
+            "brand": "Haier",
+            "price": 44990,
+            "discounted_price": 39990,
+            "discount_percent": 11,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 30,
+            "images": [
+                "https://m.media-amazon.com/images/I/81m2g1n9nZL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71x0+1o4gKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T21:55:00Z",
+        "subtotal": 39990
+    },
+    {
+        "id": "090",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_crompton_fan",
+            "name": "Crompton Aura Prime 1200mm Ceiling Fan",
+            "brand": "Crompton",
+            "price": 3499,
+            "discounted_price": 2799,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 180,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 2,
+        "added_at": "2026-01-13T22:00:00Z",
+        "subtotal": 5598
+    },
+    {
+        "id": "091",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_vguard_stabilizer",
+            "name": "V-Guard Voltage Stabilizer for AC",
+            "brand": "V-Guard",
+            "price": 4999,
+            "discounted_price": 3999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 95,
+            "images": [
+                "https://m.media-amazon.com/images/I/71o5p1eG2QL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81AN7ihxd9L.AC_UF894,1000_QL80.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:05:00Z",
+        "subtotal": 3999
+    },
+    {
+        "id": "092",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_philips_iron",
+            "name": "Philips GC1905 Steam Iron",
+            "brand": "Philips",
+            "price": 1999,
+            "discounted_price": 1499,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 140,
+            "images": [
+                "https://m.media-amazon.com/images/I/61w9Z9pKXEL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/71Q5xYd6ZKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:10:00Z",
+        "subtotal": 1499
+    },
+    {
+        "id": "093",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bajaj_mixer_grinder",
+            "name": "Bajaj GX-8 750W Mixer Grinder",
+            "brand": "Bajaj",
+            "price": 5499,
+            "discounted_price": 4499,
+            "discount_percent": 18,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 60,
+            "images": [
+                "https://m.media-amazon.com/images/I/81lgS3LReWL.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:15:00Z",
+        "subtotal": 4499
+    },
+    {
+        "id": "094",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_usha_fan",
+            "name": "Usha Striker 1200mm Ceiling Fan",
+            "brand": "Usha",
+            "price": 2999,
+            "discounted_price": 2299,
+            "discount_percent": 23,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 110,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:20:00Z",
+        "subtotal": 2299
+    },
+    {
+        "id": "095",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_kent_ro_purifier",
+            "name": "Kent Grand Plus RO Water Purifier",
+            "brand": "Kent",
+            "price": 18990,
+            "discounted_price": 14990,
+            "discount_percent": 21,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 25,
+            "images": [
+                "https://m.media-amazon.com/images/I/71o5p1eG2QL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81AN7ihxd9L.AC_UF894,1000_QL80.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:25:00Z",
+        "subtotal": 14990
+    },
+    {
+        "id": "096",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_havells_mixer",
+            "name": "Havells Sprint 500W Mixer Grinder",
+            "brand": "Havells",
+            "price": 4499,
+            "discounted_price": 3499,
+            "discount_percent": 22,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 70,
+            "images": [
+                "https://m.media-amazon.com/images/I/61pxecPA0WL.jpg",
+                "https://m.media-amazon.com/images/I/71K3X4n3QJL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:30:00Z",
+        "subtotal": 3499
+    },
+    {
+        "id": "097",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_bosch_vacuum",
+            "name": "Bosch Cordless Vacuum Cleaner",
+            "brand": "Bosch",
+            "price": 24990,
+            "discounted_price": 19990,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 15,
+            "images": [
+                "https://m.media-amazon.com/images/I/81lgS3LReWL.AC_UF894,1000_QL80.jpg",
+                "https://m.media-amazon.com/images/I/71x0+1o4gKL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:35:00Z",
+        "subtotal": 19990
+    },
+    {
+        "id": "098",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_panasonic_ac",
+            "name": "Panasonic 1.5 Ton 5 Star Inverter AC",
+            "brand": "Panasonic",
+            "price": 54990,
+            "discounted_price": 47990,
+            "discount_percent": 13,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 20,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:40:00Z",
+        "subtotal": 47990
+    },
+    {
+        "id": "099",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_eureka_forbes_vacuum",
+            "name": "Eureka Forbes Quick Clean DX Vacuum Cleaner",
+            "brand": "Eureka Forbes",
+            "price": 7999,
+            "discounted_price": 5999,
+            "discount_percent": 25,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 50,
+            "images": [
+                "https://m.media-amazon.com/images/I/71o5p1eG2QL.AC_SL1500.jpg",
+                "https://m.media-amazon.com/images/I/81AN7ihxd9L.AC_UF894,1000_QL80.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:45:00Z",
+        "subtotal": 5999
+    },
+    {
+        "id": "100",
+        "addToCart": true,
+        "isActive": false,
+        "product": {
+            "id": "prod_final_dummy",
+            "name": "Final Test Product 100",
+            "brand": "TestBrand",
+            "price": 9999,
+            "discounted_price": 7999,
+            "discount_percent": 20,
+            "currency": "INR",
+            "stock_status": "in_stock",
+            "stock_quantity": 100,
+            "images": [
+                "https://m.media-amazon.com/images/I/71RFdy6y6LL.jpg",
+                "https://m.media-amazon.com/images/I/81pKzL+0ZXL.AC_SL1500.jpg"
+            ]
+        },
+        "quantity": 1,
+        "added_at": "2026-01-13T22:50:00Z",
+        "subtotal": 7999
+    }
+]

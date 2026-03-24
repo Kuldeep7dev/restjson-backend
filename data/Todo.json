@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "title": "Finish the quarterly report",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-15",
+        "category": "work"
+    },
+    {
+        "id": 2,
+        "title": "Buy vegetables and fruits for the week",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-13",
+        "category": "personal"
+    },
+    {
+        "id": 3,
+        "title": "Call parents in the evening",
+        "priority": "high",
+        "completed": true,
+        "dueDate": null,
+        "category": "family"
+    },
+    {
+        "id": 4,
+        "title": "Gym - leg day (don't skip)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-13",
+        "category": "health"
+    },
+    {
+        "id": 5,
+        "title": "Pay credit card bill before due date",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-16",
+        "category": "finance"
+    },
+    {
+        "id": 6,
+        "title": "Watch latest episode of Scam 2003 Season 2",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "entertainment"
+    },
+    {
+        "id": 7,
+        "title": "Fix dark mode toggle bug in app",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-14",
+        "category": "work"
+    },
+    {
+        "id": 8,
+        "title": "Water indoor plants",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 9,
+        "title": "Clear inbox - reply to at least 25 important emails",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-13",
+        "category": "work"
+    },
+    {
+        "id": 10,
+        "title": "Order new wireless earbuds (budget ₹2500-3500)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 11,
+        "title": "Learn basics of Zustand state management",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-18",
+        "category": "learning"
+    },
+    {
+        "id": 12,
+        "title": "Clean kitchen and do laundry",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-14",
+        "category": "home"
+    },
+    {
+        "id": 13,
+        "title": "Backup all project folders to external drive + cloud",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-14",
+        "category": "work"
+    },
+    {
+        "id": 14,
+        "title": "Book eye check-up appointment",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 15,
+        "title": "Read 25 pages of 'The Psychology of Money'",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "self-improvement"
+    },
+    {
+        "id": 16,
+        "title": "Prepare client demo for tomorrow's meeting",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-13",
+        "category": "work"
+    },
+    {
+        "id": 17,
+        "title": "Buy birthday gift for best friend (under ₹1500)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-22",
+        "category": "personal"
+    },
+    {
+        "id": 18,
+        "title": "10 min morning meditation",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 19,
+        "title": "Update portfolio website with latest projects",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-20",
+        "category": "career"
+    },
+    {
+        "id": 20,
+        "title": "Watch India vs Australia test match highlights",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "sports"
+    },
+    {
+        "id": 21,
+        "title": "Make mobile navbar responsive (fix overflow issue)",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-15",
+        "category": "work"
+    },
+    {
+        "id": 22,
+        "title": "Try new paneer butter masala recipe",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "cooking"
+    },
+    {
+        "id": 23,
+        "title": "Review & merge 8 pending pull requests",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-14",
+        "category": "work"
+    },
+    {
+        "id": 24,
+        "title": "Plan short weekend trip (1-2 days)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-19",
+        "category": "travel"
+    },
+    {
+        "id": 25,
+        "title": "Drink at least 3.5L water today",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 26,
+        "title": "Submit tax saving investment proof",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-20",
+        "category": "finance"
+    },
+    {
+        "id": 27,
+        "title": "Recharge Jio number",
+        "priority": "low",
+        "completed": true,
+        "dueDate": "2026-01-15",
+        "category": "personal"
+    },
+    {
+        "id": 28,
+        "title": "Study Tailwind v4 new features",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-17",
+        "category": "learning"
+    },
+    {
+        "id": 29,
+        "title": "Get haircut",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "personal"
+    },
+    {
+        "id": 30,
+        "title": "Write monthly expense tracker sheet",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-15",
+        "category": "finance"
+    },
+    {
+        "id": 31,
+        "title": "Complete 45 min cardio session",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-14",
+        "category": "health"
+    },
+    {
+        "id": 32,
+        "title": "Order new office chair (ergonomic)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 33,
+        "title": "Backup phone photos & videos",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-16",
+        "category": "personal"
+    },
+    {
+        "id": 34,
+        "title": "Reply to all pending WhatsApp messages",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "personal"
+    },
+    {
+        "id": 35,
+        "title": "Research best mutual funds for 2026",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-25",
+        "category": "finance"
+    },
+    {
+        "id": 36,
+        "title": "Practice 20 LeetCode medium problems",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-20",
+        "category": "learning"
+    },
+    {
+        "id": 37,
+        "title": "Buy new bedsheet set",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 38,
+        "title": "Schedule dentist cleaning",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-25",
+        "category": "health"
+    },
+    {
+        "id": 39,
+        "title": "Clean laptop & keyboard properly",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 40,
+        "title": "Update npm packages in all projects",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-18",
+        "category": "work"
+    },
+    {
+        "id": 41,
+        "title": "Plan Diwali gift list for family",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-10-20",
+        "category": "family"
+    },
+    {
+        "id": 42,
+        "title": "Watch one motivational video",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "self-improvement"
+    },
+    {
+        "id": 43,
+        "title": "Organize desktop & download folder",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 44,
+        "title": "Complete 2 modules of Next.js course",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-19",
+        "category": "learning"
+    },
+    {
+        "id": 45,
+        "title": "Buy protein powder (whey)",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 46,
+        "title": "Check PF & gratuity status",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-25",
+        "category": "finance"
+    },
+    {
+        "id": 47,
+        "title": "Do 10 min stretching after work",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 48,
+        "title": "Write blog post on 'React Server Components'",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-22",
+        "category": "learning"
+    },
+    {
+        "id": 49,
+        "title": "Recharge FASTag",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-20",
+        "category": "personal"
+    },
+    {
+        "id": 50,
+        "title": "Plan healthy meal prep for next week",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-16",
+        "category": "health"
+    },
+    {
+        "id": 51,
+        "title": "Schedule car service appointment",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-18",
+        "category": "personal"
+    },
+    {
+        "id": 52,
+        "title": "Complete online course module 4 (TypeScript Advanced)",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-17",
+        "category": "learning"
+    },
+    {
+        "id": 53,
+        "title": "Buy new running shoes",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 54,
+        "title": "Review monthly budget & cut unnecessary subscriptions",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-15",
+        "category": "finance"
+    },
+    {
+        "id": 55,
+        "title": "Clean fridge & throw expired items",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-14",
+        "category": "home"
+    },
+    {
+        "id": 56,
+        "title": "Reply to all pending LinkedIn connection requests",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "career"
+    },
+    {
+        "id": 57,
+        "title": "Do 20 min HIIT workout at home",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 58,
+        "title": "Research best SIP amount for next financial year",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-25",
+        "category": "finance"
+    },
+    {
+        "id": 59,
+        "title": "Organize wardrobe & donate old clothes",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-20",
+        "category": "home"
+    },
+    {
+        "id": 60,
+        "title": "Watch one episode of 'The Family Man' season 3",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "entertainment"
+    },
+    {
+        "id": 61,
+        "title": "Implement dark mode toggle in side project",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-19",
+        "category": "work"
+    },
+    {
+        "id": 62,
+        "title": "Buy new notebook & pens",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 63,
+        "title": "Practice 15 LeetCode hard problems",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-22",
+        "category": "learning"
+    },
+    {
+        "id": 64,
+        "title": "Call college friend after long time",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "personal"
+    },
+    {
+        "id": 65,
+        "title": "Check & renew domain names",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-02-05",
+        "category": "work"
+    },
+    {
+        "id": 66,
+        "title": "Morning walk 45 minutes",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 67,
+        "title": "Update all browser extensions & clear cache",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "tech"
+    },
+    {
+        "id": 68,
+        "title": "Plan savings goal for next 6 months",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-20",
+        "category": "finance"
+    },
+    {
+        "id": 69,
+        "title": "Try new filter coffee recipe at home",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "cooking"
+    },
+    {
+        "id": 70,
+        "title": "Write 3 thank-you messages to colleagues",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-15",
+        "category": "work"
+    },
+    {
+        "id": 71,
+        "title": "Order groceries online (big monthly stock)",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-14",
+        "category": "personal"
+    },
+    {
+        "id": 72,
+        "title": "Study system design - URL shortener",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-21",
+        "category": "learning"
+    },
+    {
+        "id": 73,
+        "title": "Change bedsheet & pillow covers",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 74,
+        "title": "Check credit score update",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-18",
+        "category": "finance"
+    },
+    {
+        "id": 75,
+        "title": "Do 10 min plank & core workout",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 76,
+        "title": "Backup WhatsApp chats",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "personal"
+    },
+    {
+        "id": 77,
+        "title": "Review & refactor old code in personal project",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-23",
+        "category": "work"
+    },
+    {
+        "id": 78,
+        "title": "Buy winter jacket (if needed)",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 79,
+        "title": "Read 20 pages of 'Clean Code'",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "learning"
+    },
+    {
+        "id": 80,
+        "title": "Schedule eye test for family member",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-25",
+        "category": "family"
+    },
+    {
+        "id": 81,
+        "title": "Clean balcony & outer area",
+        "priority": "low",
+        "completed": true,
+        "dueDate": "2026-01-19",
+        "category": "home"
+    },
+    {
+        "id": 82,
+        "title": "Research new laptop (budget 80–110k)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-02-10",
+        "category": "shopping"
+    },
+    {
+        "id": 83,
+        "title": "Practice speaking English for 15 min",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "self-improvement"
+    },
+    {
+        "id": 84,
+        "title": "Update password manager with new strong passwords",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-16",
+        "category": "security"
+    },
+    {
+        "id": 85,
+        "title": "Plan healthy breakfast options for next week",
+        "priority": "medium",
+        "completed": true,
+        "dueDate": "2026-01-17",
+        "category": "health"
+    },
+    {
+        "id": 86,
+        "title": "Reply to pending client follow-up emails",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-14",
+        "category": "work"
+    },
+    {
+        "id": 87,
+        "title": "Buy new water bottle (1L steel)",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 88,
+        "title": "Study GraphQL basics (Apollo Client)",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-22",
+        "category": "learning"
+    },
+    {
+        "id": 89,
+        "title": "Water terrace plants",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "home"
+    },
+    {
+        "id": 90,
+        "title": "Calculate yearly income tax estimate",
+        "priority": "high",
+        "completed": false,
+        "dueDate": "2026-01-30",
+        "category": "finance"
+    },
+    {
+        "id": 91,
+        "title": "Do 30 min yoga session",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 92,
+        "title": "Organize digital photos (delete duplicates)",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "personal"
+    },
+    {
+        "id": 93,
+        "title": "Prepare 3 interview questions to ask in next meeting",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-20",
+        "category": "career"
+    },
+    {
+        "id": 94,
+        "title": "Buy new phone case",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "shopping"
+    },
+    {
+        "id": 95,
+        "title": "Read one tech article (preferably on dev.to)",
+        "priority": "low",
+        "completed": false,
+        "dueDate": null,
+        "category": "learning"
+    },
+    {
+        "id": 96,
+        "title": "Check & pay pending electricity bill",
+        "priority": "high",
+        "completed": true,
+        "dueDate": "2026-01-17",
+        "category": "finance"
+    },
+    {
+        "id": 97,
+        "title": "Plan dinner menu for next 5 days",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-16",
+        "category": "personal"
+    },
+    {
+        "id": 98,
+        "title": "Do 15 min breathing exercise",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "health"
+    },
+    {
+        "id": 99,
+        "title": "Update GitHub README of main projects",
+        "priority": "medium",
+        "completed": false,
+        "dueDate": "2026-01-21",
+        "category": "work"
+    },
+    {
+        "id": 100,
+        "title": "Celebrate small wins of the week",
+        "priority": "low",
+        "completed": true,
+        "dueDate": null,
+        "category": "self-improvement"
+    }
+]
