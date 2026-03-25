@@ -1,5 +1,5 @@
 var express = require('express')
-const { default: Admin } = require('../Model/admin')
+const Admin = require('../Model/admin')
 var router = express.Router()
 var bcrypt = require('bcrypt')
 

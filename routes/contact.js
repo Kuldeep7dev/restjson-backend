@@ -1,5 +1,5 @@
 var express = require('express')
-const { default: contact } = require('../Model/Contact')
+const contact = require('../Model/Contact')
 var router = express.Router()
 
 router.get('/', async (req, res) => {
