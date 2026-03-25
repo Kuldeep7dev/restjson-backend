@@ -1,5 +1,5 @@
 var express = require('express')
-const { default: Admin } = require('../Model/admin')
+const Admin = require('../Model/admin')
 const passport = require('passport')
 var router = express.Router()
 
@@ -45,6 +45,13 @@ router.post('/login', (req, res, next) => {
         })
 
     })(req, res, next)
+})
+
+router.post('/logout', (req, res, next) => {
+    req.logout((err) => {
+        if (err) return next(err);
+        return res.status(200).json({ message: "Logout successful ✅" });
+    });
 })
 
 

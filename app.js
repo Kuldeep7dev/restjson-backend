@@ -47,7 +47,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // CORS — allow multiple origins for local development and live site
 const allowedOrigins = [
-  process.env.CLIENT_URL,
+  process.env.CLIENT_URL ? process.env.CLIENT_URL.replace(/\/$/, '') : undefined,
   'http://localhost:5173',
   'http://localhost:3000',
   'http://127.0.0.1:5173'
@@ -75,6 +75,7 @@ app.use(session({
   cookie: {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production', // true on live (HTTPS), false locally
+    sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax', // NEED THIS for cross-origin
     maxAge: 24 * 60 * 60 * 1000
   }
 }));
